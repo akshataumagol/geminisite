@@ -76,7 +76,7 @@ const Main = () => {
                         </div>
 
                     </div>
-                    <p className="bottom-info">CopyRigh@solvonext</p>
+                    <p className="bottom-info">CopyRigh @ || Solvonext </p>
                 </div>
             </div>
         </div>
